@@ -1,0 +1,5 @@
+redux middleware to hook into your reducers under the hood
+evert time the state is cnaged it will take the data and store it to disk on the file system. This mmeans it can be read again when your phone/app restarts.
+when you re open app - the memory will 'reydrate' you store upon loading
+
+this is opposed to storing in memeory 
