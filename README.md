@@ -1,4 +1,4 @@
-###Count Tuten
+<h1> Count Tuten </h1>
 
 A simple React Native App built using expo, with itergrated Redux.
 
